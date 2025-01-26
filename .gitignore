@@ -31,3 +31,6 @@ sonda-report.html
 
 # Compiled locale files
 src/locales/*.js
+
+.env
+.direnv/
